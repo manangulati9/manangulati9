@@ -1,12 +1,16 @@
 # 💫 About Me:
 Welcome to my GitHub! I'm thrilled to have you here. As a Full Stack Web Developer, I'm passionate about crafting interactive and user-friendly web applications that make a positive impact. My journey in the world of web development began a few years ago, and since then, I've been on an exciting adventure of learning, building, and refining my skills.
 
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manangulati9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-gulati-012177221) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@archfiend999) 
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+
+<img align="right" height="170" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+
 
 # 💻 Tech Stack:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -65,10 +69,14 @@ Welcome to my GitHub! I'm thrilled to have you here. As a Full Stack Web Develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 </div>
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manangulati9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=manangulati9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manangulati9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=manangulati9&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=manangulati9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manangulati9&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -77,10 +85,5 @@ Welcome to my GitHub! I'm thrilled to have you here. As a Full Stack Web Develop
 ![](https://github-contributor-stats.vercel.app/api?username=manangulati9&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-###
-<br clear="both">
-<img src="https://raw.githubusercontent.com/manangulati9/manangulati9/output/snake.svg" alt="Snake animation" />
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
