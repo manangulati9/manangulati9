@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.gif" height="400"/>
+  <img src="./banner.gif" height="350" />
 </p>
 
 <h1 align="left">💫 Hi! I'm Manan 👋</h1>
@@ -20,8 +20,7 @@ Welcome to my GitHub! I'm thrilled to have you here. As a Full Stack Web Develop
 </div>
 
 <h1 align="left">📊 GitHub Stats</h1>
-<div align="center">
+<div style="display: flex; gap: 1rem">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manangulati9&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api?username=manangulati9&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
-
