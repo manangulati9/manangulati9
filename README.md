@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"/>
+  <img src="./banner.gif" height="400"/>
 </p>
 
 <h1 align="left">💫 Hi! I'm Manan 👋</h1>
@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm thrilled to have you here. As a Full Stack Web Develop
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manangulati9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-gulati-012177221) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@archfiend999) 
 
 <div align="center">
-  <img height="225" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+  <img height="225" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdhNHdwYjliY2Z3cHQ0OThld3kzcjduZG91bm1qdG5tOGxpNnhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" />
 </div>
 
 # 💻 Tech Stack
